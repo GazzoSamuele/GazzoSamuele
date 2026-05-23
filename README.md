@@ -38,20 +38,20 @@
 ---
 
 <!-- 👤 CHI SONO — riscrivi a tuo gusto. Lascio una base che puoi tenere. -->
-## 🚀 About me
+## 🚀 Chi sono
 
-Sono un **frontend developer junior** di Torino, in transizione verso il tech dopo diversi anni nel mondo della ristorazione. Costruisco interfacce web accessibili e curate nel design
+Sono un **Front-End Developer junior**, in transizione verso il Full Stack. Costruisco interfacce web accessibili e curate nel design
 
-- 🔭 Sto lavorando a **[nome progetto attuale]**
-- 🌱 Sto imparando **TypeScript** e **Next.js**
-- 🎯 La mia roadmap: `Html → CSS → JavaScript → Photoshop → Illustrator → Figma → Wordpress → React`
-- 📸 Nel tempo libero scatto foto e puoi vedere alcuni scatti su questo portfolio [(https://progetto-portfolio-fotografico.netlify.app/)]
+<!-- - 🔭 Sto lavorando a **[nome progetto attuale]** -->
+<!-- - 🌱 Sto imparando **TypeScript** e **Next.js** -->
+🎯 La mia roadmap: `Html → CSS → JavaScript → Photoshop → Illustrator → Figma → Wordpress → React`
+📸 Nel tempo libero scatto foto e puoi vedere alcuni scatti su questo portfolio  <a href="https://progetto-portfolio-fotografico.netlify.app/">Portfolio Fotografico</a>
 
 ---
 
 <!-- 🛠️ STACK — togli o aggiungi badge come vuoi. -->
 <!-- Per altri badge: https://shields.io  oppure cerca "simple icons" -->
-## 🛠️ Tech Stack
+## 🛠️ Gli Stack che uso
 
 **Linguaggi**
 
