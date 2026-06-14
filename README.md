@@ -6,7 +6,7 @@
 <!-- ✨ ANIMAZIONE TESTO — cambia le frasi dopo "lines=" (separate da ;) -->
 <!-- Gli spazi vanno scritti come +  →  esempio: "Web+Designer"        -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Designer;Ux-Ui+Designer;Dall'hospitality+al+tech" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Designer;Ux-Ui+Designer;" alt="Typing animation" />
 </p>
 
 ---
@@ -29,6 +29,7 @@ Sono un **Front-End Developer junior**, in transizione verso il Full Stack. Cost
 <!-- - 🔭 Sto lavorando a **[nome progetto attuale]** -->
 <!-- - 🌱 Sto imparando **TypeScript** e **Next.js** -->
 🎯 La mia roadmap: `Html → CSS → JavaScript → Photoshop → Illustrator → Figma → Wordpress → React`
+<br>
 <br>
 📸 Nel tempo libero scatto foto e puoi vedere alcuni scatti su questo portfolio  <a href="https://progetto-portfolio-fotografico.netlify.app/">Portfolio Fotografico</a>
 
