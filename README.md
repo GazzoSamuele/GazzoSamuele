@@ -1,18 +1,3 @@
-<!-- ============================================================= -->
-<!-- 📌 README PROFILO GITHUB                                        -->
-<!--                                                                 -->
-<!-- COME USARLO:                                                    -->
-<!-- 1. Crea una repo con lo STESSO NOME del tuo username GitHub     -->
-<!--    (es. se sei "samuele", la repo si chiama "samuele").         -->
-<!-- 2. Mettila PUBBLICA e aggiungi un file README.md.               -->
-<!-- 3. Incolla questo contenuto e modifica tutto ciò che è tra [ ]  -->
-<!--    e ogni "TUO_USERNAME".                                       -->
-<!--                                                                 -->
-<!-- I commenti come questo NON si vedono nel profilo: lasciali pure -->
-<!-- o cancellali, fanno lo stesso.                                  -->
-<!-- ============================================================= -->
-
-
 <!-- 🔆 HEADER — nome e ruolo -->
 <h1 align="center">Ciao, sono Gazzo Samuele 👋</h1>
 <h3 align="center">Junior Frontend Developer &amp; Web Designer</h3>
@@ -24,6 +9,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Designer;Ux-Ui+Designer;Dall'hospitality+al+tech" alt="Typing animation" />
 </p>
 
+---
+
+<!-- 👤 CHI SONO — riscrivi a tuo gusto. Lascio una base che puoi tenere. -->
+## 🚀 Chi sono
+
+Sono un **Front-End Developer junior**, in transizione verso il Full Stack. Costruisco interfacce web accessibili e curate nel design
 
 <!-- 🔗 BADGE CONTATTI — sostituisci i link dopo href=" -->
 <p align="center">
@@ -35,16 +26,10 @@
   </a>
 </p>
 
----
-
-<!-- 👤 CHI SONO — riscrivi a tuo gusto. Lascio una base che puoi tenere. -->
-## 🚀 Chi sono
-
-Sono un **Front-End Developer junior**, in transizione verso il Full Stack. Costruisco interfacce web accessibili e curate nel design
-
 <!-- - 🔭 Sto lavorando a **[nome progetto attuale]** -->
 <!-- - 🌱 Sto imparando **TypeScript** e **Next.js** -->
 🎯 La mia roadmap: `Html → CSS → JavaScript → Photoshop → Illustrator → Figma → Wordpress → React`
+<br>
 📸 Nel tempo libero scatto foto e puoi vedere alcuni scatti su questo portfolio  <a href="https://progetto-portfolio-fotografico.netlify.app/">Portfolio Fotografico</a>
 
 ---
@@ -68,10 +53,10 @@ Sono un **Front-End Developer junior**, in transizione verso il Full Stack. Cost
 
 **Backend**
 
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
+<!--![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
 **Tools & Design**
 
